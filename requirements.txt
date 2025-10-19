@@ -1,0 +1,8 @@
+openai-whisper
+pyannote.audio
+gradio>=4.0.0
+networkx
+python-dotenv
+google-generativeai
+torch
+torchaudio
