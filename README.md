@@ -1,4 +1,14 @@
 # Smart-Meeting-Synthesizer
+
+## Architecture
+
+```mermaid
+flowchart LR
+  A[Meeting audio] --> S[Speech recognition]
+  S --> T[Transcript]
+  T --> N[NLP and LLM synthesis]
+  N --> O[Summary, actions, and notes]
+```
 An AI-powered meeting assistant that automatically records, transcribes, and summarizes meetings into concise, actionable insights.
 This notebook leverages speech recognition, natural language processing, and LLM summarization to create structured meeting notes effortlessly.
 
