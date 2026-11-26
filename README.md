@@ -1,5 +1,9 @@
 # Smart-Meeting-Synthesizer
 
+## Project contribution
+
+Converts recorded meetings into structured transcripts, summaries, and action-oriented notes so discussions are easier to revisit.
+
 ## Architecture
 
 ```mermaid
